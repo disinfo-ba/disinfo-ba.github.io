@@ -137,8 +137,8 @@
   {
     "id": "1748532923214",
     "folderId": "1748516919605",
-    "title": "E ora_ I siriani temono le prossime mosse dei ribelli, insieme alla speranza per il futuro - Medio Oriente - Haaretz.com.pdf",
-    "description": "E ora_ I siriani temono le prossime mosse dei ribelli, insieme alla speranza per il futuro - Medio Oriente - Haaretz.com.pdf",
+    "title": "Haaretz.com",
+    "description": "E ora I siriani temono le prossime mosse dei ribelli, insieme alla speranza per il futuro - Medio Oriente",
     "type": "link",
     "url": "https://www.haaretz.com/news/middle-east/2024-12-13/ty-article/.premium/what-now-syrians-fear-the-rebels-next-moves-alongside-hope-for-the-future/00000193-bf3d-d130-a1b7-bf7ddd730000",
     "createdAt": "2025-05-29T15:35:23.214Z"
@@ -146,8 +146,8 @@
   {
     "id": "1748532706775",
     "folderId": "1748516919605",
-    "title": "Aggiornamenti dalla Siria_ Assad fugge in Russia mentre i ribelli prendono il controllo della capitale.pdf",
-    "description": "Aggiornamenti dalla Siria_ Assad fugge in Russia mentre i ribelli prendono il controllo della capitale.pdf",
+    "title": "USA Today",
+    "description": "Aggiornamenti dalla Siria, Assad fugge in Russia mentre i ribelli prendono il controllo della capitale",
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/fabiSwDevBeg/fabiSwDevBeg.github.io/main/storage/pdfs/1748516919605/Aggiornamenti%20dalla%20Siria_%20Assad%20fugge%20in%20Russia%20mentre%20i%20ribelli%20prendono%20il%20controllo%20della%20capitale%20(1).pdf",
     "createdAt": "2025-05-29T15:31:46.775Z"
@@ -155,8 +155,8 @@
   {
     "id": "1748532847994",
     "folderId": "1748516919605",
-    "title": "Al-Julani punta a una Grande Siria – www.israelhayom.com.pdf",
-    "description": "Al-Julani punta a una Grande Siria – www.israelhayom.com.pdf",
+    "title": "www.israelhayom.com",
+    "description": "Al-Julani punta a una Grande Siria",
     "type": "link",
     "url": "https://www.israelhayom.com/2024/12/15/al-julani-aims-for-a-greater-syria/",
     "createdAt": "2025-05-29T15:34:07.775Z"
@@ -164,8 +164,8 @@
   {
     "id": "1748535729482",
     "folderId": "1748535411218",
-    "title": "Come parla Trump - Il Tascabile.pdf",
-    "description": "Come parla Trump - Il Tascabile.pdf",
+    "title": "Il Tascabile",
+    "description": "Come parla Trump",
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/disinfo-ba/disinfo-ba.github.io/main/storage/pdfs/1748535411218/Come%20parla%20Trump%20-%20Il%20Tascabile%20(1).pdf",
     "createdAt": "2025-05-29T16:22:09.482Z"
@@ -173,11 +173,20 @@
   {
     "id": "1748535661403",
     "folderId": "1748535411218",
-    "title": "Bardella contro il saluto di Bannon. Il francese annulla il suo intervento _ Corriere.it.pdf",
-    "description": "Bardella contro il saluto di Bannon. Il francese annulla il suo intervento _ Corriere.it.pdf",
+    "title": "Corriere.it",
+    "description": "Bardella contro il saluto di Bannon. Il francese annulla il suo intervento",
     "type": "pdf",
     "url": "https://raw.githubusercontent.com/disinfo-ba/disinfo-ba.github.io/main/storage/pdfs/1748535411218/Bardella%20contro%20il%20saluto%20di%20Bannon.%20Il%20francese%20annulla%20il%20suo%20intervento%20_%20Corriere.it%20(1).pdf",
     "createdAt": "2025-05-29T16:21:01.403Z"
+  },
+  {
+    "id": "1748537563177",
+    "folderId": "1748535411218",
+    "title": "Trump e la costruzione del pensiero populista",
+    "description": "",
+    "type": "pdf",
+    "url": "https://raw.githubusercontent.com/disinfo-ba/disinfo-ba.github.io/main/storage/pdfs/1748535411218/Trump%20e%20la%20costruzione%20del%20pensiero%20populista.pdf",
+    "createdAt": "2025-05-29T16:52:43.177Z"
   },
   {
     "id": "1748537822229",
