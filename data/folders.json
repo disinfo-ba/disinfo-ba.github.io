@@ -1,13 +1,13 @@
 [
   {
-    "id": "1748439037507",
-    "title": "Incontro di Novembre (28/11) - Elezioni Americane e il loro effetto nel mondo",
-    "createdAt": "2025-05-28T13:30:37.507Z"
-  },
-  {
     "id": "1748439552614",
     "title": "Incontro di Ottobre (31/10) - Identikit di un omicidio",
     "createdAt": "2025-05-28T13:39:12.614Z"
+  },
+  {
+    "id": "1748439037507",
+    "title": "Incontro di Novembre (28/11) - Elezioni Americane e il loro effetto nel mondo",
+    "createdAt": "2025-05-28T13:30:37.507Z"
   },
   {
     "id": "1748516919605",
@@ -25,13 +25,13 @@
     "createdAt": "2025-05-29T16:16:51.218Z"
   },
   {
-    "id": "1748538379823",
-    "title": "Incontro di Aprile (28/04) - L'Europa si arma: fine dell'innocenza strategica?",
-    "createdAt": "2025-05-29T17:06:19.823Z"
-  },
-  {
     "id": "1748538298372",
     "title": "Incontro di Marzo (24/03) - Stop Fake News: Bari contro la disinformazione",
     "createdAt": "2025-05-29T17:04:58.372Z"
+  },
+  {
+    "id": "1748538379823",
+    "title": "Incontro di Aprile (28/04) - L'Europa si arma: fine dell'innocenza strategica?",
+    "createdAt": "2025-05-29T17:06:19.823Z"
   }
 ]
